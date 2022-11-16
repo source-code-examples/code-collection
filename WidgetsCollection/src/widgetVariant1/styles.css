@@ -1,0 +1,32 @@
+/* JavaFX CSS */
+
+.root {
+	-fx-background-color: transparent;
+}
+
+.button {
+	-fx-background-color: transparent;
+	-fx-background-size: 45.0 45.0; 
+	-fx-background-position: center;
+	-fx-background-repeat: no-repeat; 
+}
+ 
+.btnOne {
+	-fx-background-image: url("../images/github-square.png");
+}
+
+.btnTwo {
+	-fx-background-image: url("../images/wikimedia-commons-logo.png");
+}
+
+.btnThree {
+	-fx-background-image: url("../images/wikibooks-logo.png");
+}
+
+.btnFour {
+	-fx-background-image: url("../images/java-mascot.png");
+}
+
+.btnFive {
+	-fx-background-image: url("../images/red-cancel-btn.png");
+}
